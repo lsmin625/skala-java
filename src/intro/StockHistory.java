@@ -1,3 +1,4 @@
+package intro;
 
 public class StockHistory {
     // StringBuilder로 문자열을 동적으로 조립
