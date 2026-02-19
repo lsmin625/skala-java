@@ -1,4 +1,4 @@
-package chaining;
+package ch8_chaining;
 
 public class Stock {
 

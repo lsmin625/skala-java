@@ -1,4 +1,4 @@
-package chaining;
+package ch8_chaining;
 
 import java.io.IOException;
 import java.nio.file.Files;
